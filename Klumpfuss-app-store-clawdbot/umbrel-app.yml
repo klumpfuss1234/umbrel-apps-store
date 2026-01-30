@@ -1,10 +1,10 @@
 manifestVersion: 1
-id: Klumpfuss-app-store-clawdbot
+id: clawdbot
 name: Clawdbot
 tagline: Your own personal AI assistant - any platform, self-hosted
-category: ai
+category: productivity
 version: "2026.1.24"
-port: 18789
+port: 30189
 path: ""
 description: >-
   Clawdbot is a self-hosted AI assistant control plane that connects to multiple messaging platforms (WhatsApp, Telegram, Discord, Slack, Signal, iMessage) and AI providers (Anthropic Claude, OpenAI, local models).
