@@ -9,7 +9,7 @@ services:
   gateway:
     # Custom Clawdbot Docker image for Umbrel
     # Built from: https://github.com/harmalh/clawdbot-umbrel
-    image: ghcr.io/harmalh/clawdbot-umbrel:sha256:d8d41d16a3608e53086b80c1820905b09f45842c0e4b3c2c6c3b341ffa229bba
+    image: ghcr.io/harmalh/clawdbot-umbrel:v2026.1.24@sha256:d8d41d16a3608e53086b80c1820905b09f45842c0e4b3c2c6c3b341ffa229bba
     user: "1000:1000"
     
     environment:
