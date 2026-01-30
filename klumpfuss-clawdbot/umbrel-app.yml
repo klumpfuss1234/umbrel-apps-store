@@ -2,7 +2,7 @@ manifestVersion: 1
 id: clawdbot
 name: Clawdbot
 tagline: Your own personal AI assistant - any platform, self-hosted
-category: productivity
+category: ai
 version: "2026.1.24"
 port: 30189
 path: ""
