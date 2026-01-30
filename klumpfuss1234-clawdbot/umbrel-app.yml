@@ -3,7 +3,7 @@ id: clawdbot
 name: Clawdbot
 tagline: Your own personal AI assistant - any platform, self-hosted
 category: developer
-version: "2026.1.24"
+version: "1.0.0"
 port: 30189
 path: ""
 description: >-
